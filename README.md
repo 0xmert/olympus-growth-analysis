@@ -1,6 +1,6 @@
 # olympus-growth-analysis
 
-### This is a basic script for querying and analyzing Olympus DAO data from the community subgraph. This can be further extended to model sustainable growth through more complex analysis. This script can also be used for Olympus forks once the associated subgraph's are hosted.
+This is a basic script for querying and analyzing Olympus DAO data from the community subgraph. This can be further extended to model sustainable growth through more complex analysis. This script can also be used for Olympus forks once the associated subgraph's are hosted.
 
 
 ## Enviroment 
